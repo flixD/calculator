@@ -2,7 +2,7 @@ input {
 	width: 42px;
 }
 body {
-	background: url(img/numbers.jpg);
+	background: url(numbers.jpg);
 }
 div{
 	border: black 4px solid;
